@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Pippin_OpenHouse</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>css</name>
+			<type>2</type>
+			<location>C:/Users/David/Google Drive/SUNY-IT/CS 490/Pippin_Hwk7_OpenHouse/Pippin_OpenHouse/css</location>
+		</link>
+		<link>
+			<name>js</name>
+			<type>2</type>
+			<location>C:/Users/David/Google Drive/SUNY-IT/CS 490/Pippin_Hwk7_OpenHouse/Pippin_OpenHouse/js</location>
+		</link>
+	</linkedResources>
+</projectDescription>
